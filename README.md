@@ -1,4 +1,4 @@
-# Kodluyoruz - Creating First Web Page
+# Kodluyoruz - End of Section Study
 
 This repo is created for [Kodluyoruz](https://kodluyoruz.org/) HTML Learning End of Section Study. It contains index.html, about-us.html, contact.html, gitignore and README.md files.  
 
